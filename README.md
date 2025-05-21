@@ -1,7 +1,5 @@
 # Fleetix: Project Overview
 
-This project was an undertaking of the team "Team 28" for the course "Design and Analysis of Software Systems" (DASS) in Spring 2025.
-
 ## Problem Statement
 Fleetix addresses open source route optimization B2B services for employee transportation, specifically tackling scenarios involving multiple pickups and drop-offs.
 
