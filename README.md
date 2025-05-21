@@ -37,19 +37,17 @@ The final product is hosted and can be accessed at: [fleetix-team28.vercel.app](
 │   │   ├── services/         # Business logic implementations
 │   │   └── src/              # Other source files
 │   ├── frontend/             # Next.js frontend application
-│   │   ├── public/           # Static assets
-│   │   └── src/              # Frontend source code
-│   │       ├── app/          # Next.js app directory
-│   │       ├── components/   # Reusable UI components
-│   │       ├── pages/        # Page components
-│   │       └── utils/        # Utility functions
-│   └── google_maps/          # Template code for Google APIs
+│       ├── public/           # Static assets
+│       └── src/              # Frontend source code
+│           ├── app/          # Next.js app directory
+│           ├── components/   # Reusable UI components
+│           ├── pages/        # Page components
+│           └── utils/        # Utility functions
+│   
 ├── Docs/                     # Project documentation
 │   └── Status_trackers/      # Weekly status tracking documents
 ├── Market Research/          # Research on tools and technologies
-└── MoM/                      # Minutes of meetings
-    ├── Client/               # Client meeting notes
-    └── Team/                 # Team meeting notes
+.
 ```
 
 # Documentation and Resources
