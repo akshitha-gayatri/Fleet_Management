@@ -20,8 +20,7 @@ This comprehensive solution optimizes employee transportation management with fe
 - **Mapping**: OpenStreetMap (OSM)
 - **Route Optimization**: Open Source Routing Machine (OSRM)
 
-## Live Demo
-The final product is hosted and can be accessed at: [fleetix-team28.vercel.app](https://fleetix-team28.vercel.app)
+
 
 # Repository Structure
 
