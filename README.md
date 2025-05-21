@@ -69,10 +69,6 @@ All necessary documentation and resources for the project can be found in the fo
   - [Heuristics](./Market%20Research/Heuristics.md): Documentation on heuristic algorithms for route optimization.
   - [VROOM](./Market%20Research/vroom.md): Overview of VROOM for vehicle route optimization.
 
-- **[`Minutes of Meetings`](./MoM/)**: Minutes of Meetings with the client and team.
-  - [Client/](./MoM/Client/): Contains MoMs for all client meetings.
-  - [Team/](./MoM/Team/): Contains MoMs for all internal team meetings.
-
 - **[`Code`](./Code/)**: Source code for the project.
   - [frontend/](./Code/frontend/): Frontend application built with Next.js.
   - [backend/](./Code/backend/): Backend services and APIs.
